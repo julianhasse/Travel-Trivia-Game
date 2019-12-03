@@ -5,6 +5,7 @@ by Julian Hasse, 2017
 ```terminal
 download files
 open index.html
+click 'play'
 ```
 
 ## HTML + CSS + jQUERY + JS
