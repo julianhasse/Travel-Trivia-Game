@@ -1,11 +1,11 @@
 # Travel Trivia Game
 by Julian Hasse, 2017
 
-## Install
-```terminal
-1. download files
-2. open index.html
-3. click 'play'
+## Quick Start
+```bash
+# download files
+# open index.html
+# click 'play'
 ```
 
 ## HTML + CSS + jQUERY + JS
